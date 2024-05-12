@@ -3,4 +3,11 @@
     <string name="add_note">Add Note</string>
     <string name="plan_your_works_here">Plan your works here</string>
     <string name="todo">ToDo</string>
+    <string name="search">Search</string>
+    <string name="task_title">Task Title</string>
+    <string name="enter_task_title">Enter Task Title</string>
+    <string name="enter_task_description">Enter Task Description</string>
+    <string name="enter_task_priority">Enter Task Priority</string>
+    <string name="enter_task_due_date">Enter Task Due Date</string>
+    <string name="your_task">Your Task</string>
 </resources>
