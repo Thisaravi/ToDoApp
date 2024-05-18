@@ -11,7 +11,7 @@ import java.text.ParseException
 import java.text.SimpleDateFormat
 import java.util.Date
 
-// Define the VALID_PRIORITIES constant outside of the Task class
+// priority validation
 val VALID_PRIORITIES = setOf("1", "2", "3")
 
 class AddEditTaskActivity : AppCompatActivity() {
